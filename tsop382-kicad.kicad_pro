@@ -502,7 +502,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "TSOP382 breakout.kicad_pro",
+    "filename": "tsop382-kicad.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -657,8 +657,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "TSOP382 breakout.kicad_sch",
-        "name": "Root",
+        "filename": "tsop382-kicad.kicad_sch",
+        "name": "tsop382-kicad",
         "uuid": "108432bb-dd2f-49f5-af38-a5cf39ac67f1"
       }
     ],
